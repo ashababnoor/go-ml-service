@@ -1,0 +1,29 @@
+# Python environment and cache files
+venv
+**/__pycache__
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Docker files
+.docker
+
+# Secret files
+/secrets/*
+!/secrets/init.secrets.sh
+
+# Log files
+.log
+*.log
+logs
+
+# Test and benchmark files
+load_test/results/
+benchmark/output/**
+benchmark/analysis/output/**
+benchmark/data/lg_*
+
+# Miscellaneous
+result.json
+*foo*

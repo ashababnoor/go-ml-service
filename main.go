@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("Hello from Go!")
 
 	cgotest.Example1()
+	cgotest.Example2()
 }

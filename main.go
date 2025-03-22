@@ -11,4 +11,5 @@ func main() {
 
 	cgotest.Example1()
 	cgotest.Example2()
+	cgotest.Example3()
 }

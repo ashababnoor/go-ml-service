@@ -3,13 +3,13 @@ package main
 import (
 	"fmt"
 
-	"github.com/ashababnoor/go-ml-service/cgotest"
+	example "github.com/ashababnoor/go-ml-service/cgoexample"
 )
 
 func main() {
 	fmt.Println("Hello from Go!")
 
-	cgotest.Example1()
-	cgotest.Example2()
-	cgotest.Example3()
+	example.Example1()
+	example.Example2()
+	example.Example3()
 }

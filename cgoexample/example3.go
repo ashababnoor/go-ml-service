@@ -1,4 +1,4 @@
-package cgotest
+package cgoexample
 
 /*
 #cgo LDFLAGS: -lm

@@ -27,3 +27,6 @@ benchmark/data/lg_*
 # Miscellaneous
 result.json
 *foo*
+
+# Go vendor directory
+vendor/
